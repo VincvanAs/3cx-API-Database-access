@@ -1,4 +1,7 @@
 # 3cx-PDO-acces
+BEFORE STARTING -> 
+IF YOU DON'T KNOW WHAT YOUR DOING, MESSING WITH THE 3CX DATABASE CAN BRING LARGE PROBLEMS AND COULD MAKE THE FUNCTIONS NOT WORK PROPERLY
+
 For external access to the 3cx database 
 
 1. Make sure you've installed & enabled PDO
